@@ -3,4 +3,4 @@ db/
 bundle/
 bundle.zip
 .env
-src/google-sheets-credentials
+./src/google-sheets-credentials
